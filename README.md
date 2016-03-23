@@ -1,4 +1,4 @@
-# vanilla plugin for rankgold
+# vanilla plugin for rankgold - a forum platform
 
 step 1, download this [plugin](https://github.com/rankgold/vanilla/archive/master.zip)
 
