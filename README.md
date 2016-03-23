@@ -14,3 +14,4 @@ step 6, once install, go to `Dashboard -> Plugins` and enable `RankGold`
 
 step 7, in `Dashboard -> Flood Control`, please set "30 dicussions Within 30 seconds Or Spamblock For 1 minute"
 
+note, plugin has been tested with vanilla 2.2 only.
